@@ -17,7 +17,7 @@ He plans on using these insights to help him decide whether he should expand the
 3. Members
 
 ## Entity Relationship Diagram
-![My Image](images/ER.png)
+![My Image](ER.png)
   
 
 
